@@ -19,6 +19,8 @@ namespace WindowsFormsApp1
             var test = 1;
 
             var aaa = "asd";
+
+            var cd = "aa";
         }
     }
 }
