@@ -17,6 +17,8 @@ namespace WindowsFormsApp1
             InitializeComponent();
 
             var test = 2;
+
+            var aaa = "asd";
         }
     }
 }
